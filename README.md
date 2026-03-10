@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @raizexo
-- 👀 I’m interested in learning a lot new stuff. Currently I'm learning flask and looking into backend programming.
-- 💞️ I’m looking to collaborate on pretty much anything. I want to get my hands dirty and go at it.
 - 📫 How to reach me: email: praizada234@gmail.com, instagram: pranav_raizada, telegram: @praizada234
 
 <!---
